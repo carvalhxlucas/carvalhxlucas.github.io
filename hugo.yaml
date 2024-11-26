@@ -44,21 +44,25 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
+      name: about_me
       url: /about/
       weight: 10
+    - identifier: portfolio
+      name: portfolio
+      url: /portfolio/
+      weight: 20
     - identifier: archive
       name: archive
       url: /archive/
-      weight: 20
+      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 30
+      weight: 40
     - identifier: search
       name: search
       url: /search/
-      weight: 40
+      weight: 50
 
 # For search: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 outputs:
