@@ -3,7 +3,7 @@ title = '🪴 My Digital Space'
 date = 2024-09-15T15:33:23-03:00
 draft = false
 
-author = "Jennifer Oenning"
+author = "Lucas Carvalho"
 showToc = true
 TocOpen = false
 hidemeta = false
@@ -26,8 +26,6 @@ UseHugoToc = true
 
 Hello world!
 
-I created this website to share my programming lessons, so today was a day where I was able to learn the [Hugo](https://gohugo.io) framework, which I applied to this blog with the help of the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme.
 
-The idea was to do something simple where I could write my learnings in English and bring programming curiosities, and be able to practice the English language :)
 
 Thanks for visiting o/

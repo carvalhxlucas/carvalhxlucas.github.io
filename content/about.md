@@ -33,10 +33,12 @@ cover:
 ## Who am I
 
 
-I'm Lucas Carvalho, a full stack developer passionate about technology and design, with experience creating innovative solutions. I work on some technologies, always seeking to deliver high quality products and refined aesthetics.
+I'm Lucas, a Software Engineer with extensive expertise in backend development, a technology enthusiast currently delving into the field of Artificial Intelligence, with a focus on Deep Learning and Machine Learning. My goal is to create intelligent and innovative solutions for the market.
 
 ## My Trajectory
-My journey into the world of technology began with web development, where I fell in love with creating attractive and functional interfaces. When I was 14, I watched my brother program and was happy that he could solve problems for other people and close friends. That's where I was inspired to start college in 2019. I also had the opportunity to participate in the college's robotics group, where I got to have more experience with Arduino and go to school events to help kids understand what technology is like and how cool it can be.
+My journey in the tech world began in technical support, working with computers and networks. I then transitioned to customer support, assisting clients in using systems provided by the companies I worked for. During this time, I gained valuable experience in problem-solving and developing effective solutions. It was in this role that I began building skills in database management, API integration development, and data collection automation using SQL scripts.
+
+This experience led me to software development, where I became a Systems Analyst. In this role, I worked on Python-based automation, developed new system features in PHP, maintained and structured large databases, managed cloud environments on AWS, and contributed to major projects within the company.
 
 ## My Skills
 
