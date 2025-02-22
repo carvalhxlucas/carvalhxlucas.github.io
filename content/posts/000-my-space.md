@@ -1,5 +1,5 @@
 +++
-title = '💻 My Digital Space'
+title = '💻 My Journey'
 date = 2024-09-15T15:33:23-03:00
 draft = false
 
@@ -8,7 +8,7 @@ showToc = true
 TocOpen = false
 hidemeta = false
 comments = false
-description = "A bit about my little space"
+description = "A bit about my journey as a software developer"
 canonicalURL = "https://canonical.url/to/page"
 disableHLJS = true # to disable highlightjs
 disableShare = false
