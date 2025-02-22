@@ -42,4 +42,4 @@ Feel free to reach out through the contact form on the website or connect with m
 
 ---  
 
-Thank you for visiting my portfolio! 😊 
+Thank you for visiting my portfolio! 
